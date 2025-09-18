@@ -1,0 +1,185 @@
+<section class="section" id="shop">
+  <h2>Our Culture Crates</h2>
+  <div class="boxes">
+
+    <!-- Original 3 -->
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Japan" alt="Japan Crate">
+      <h3>Japan Crate</h3>
+      <p>Experience Japan with authentic snacks, origami kit, postcards, and cultural fun facts!</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Italy" alt="Italy Crate">
+      <h3>Italy Crate</h3>
+      <p>Savor Italian treats, mini recipe cards, postcards, and cultural tidbits from Italy.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Mexico" alt="Mexico Crate">
+      <h3>Mexico Crate</h3>
+      <p>Enjoy Mexican snacks, small crafts, postcards, and a fun facts card about Mexican culture.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <!-- Additional 30 Countries -->
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=France" alt="France Crate">
+      <h3>France Crate</h3>
+      <p>French pastries, postcards, and cultural insights straight from Paris and beyond.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Germany" alt="Germany Crate">
+      <h3>Germany Crate</h3>
+      <p>Discover German snacks, mini souvenirs, and fun facts about local traditions.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=India" alt="India Crate">
+      <h3>India Crate</h3>
+      <p>Experience Indian spices, small handicrafts, and colorful cultural cards.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=China" alt="China Crate">
+      <h3>China Crate</h3>
+      <p>Traditional Chinese snacks, mini crafts, and cultural insights from China.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Brazil" alt="Brazil Crate">
+      <h3>Brazil Crate</h3>
+      <p>Brazilian treats, carnival-inspired trinkets, and fun cultural facts.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Canada" alt="Canada Crate">
+      <h3>Canada Crate</h3>
+      <p>Poutine snacks, maple syrup treats, and fun facts from Canada.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Australia" alt="Australia Crate">
+      <h3>Australia Crate</h3>
+      <p>Experience Aussie snacks, souvenirs, and fun facts about wildlife and culture.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Spain" alt="Spain Crate">
+      <h3>Spain Crate</h3>
+      <p>Savor Spanish tapas, cultural trinkets, and colorful postcards.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Greece" alt="Greece Crate">
+      <h3>Greece Crate</h3>
+      <p>Greek snacks, postcards, and small crafts inspired by ancient traditions.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Thailand" alt="Thailand Crate">
+      <h3>Thailand Crate</h3>
+      <p>Enjoy Thai snacks, cultural trinkets, and postcards from Thailand.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=South+Korea" alt="South Korea Crate">
+      <h3>South Korea Crate</h3>
+      <p>Korean snacks, K-pop inspired items, and cultural cards.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Russia" alt="Russia Crate">
+      <h3>Russia Crate</h3>
+      <p>Russian treats, small crafts, and fun facts about Russian culture.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Egypt" alt="Egypt Crate">
+      <h3>Egypt Crate</h3>
+      <p>Discover Egyptian snacks, miniature pyramids, and cultural cards.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Turkey" alt="Turkey Crate">
+      <h3>Turkey Crate</h3>
+      <p>Enjoy Turkish delights, souvenirs, and cultural facts.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Argentina" alt="Argentina Crate">
+      <h3>Argentina Crate</h3>
+      <p>Argentinian snacks, mini crafts, and cultural insights.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Portugal" alt="Portugal Crate">
+      <h3>Portugal Crate</h3>
+      <p>Portuguese treats, cultural souvenirs, and fun facts.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Netherlands" alt="Netherlands Crate">
+      <h3>Netherlands Crate</h3>
+      <p>Dutch snacks, postcards, and miniature souvenirs from the Netherlands.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Sweden" alt="Sweden Crate">
+      <h3>Sweden Crate</h3>
+      <p>Swedish treats, crafts, and cultural insights about Scandinavia.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Norway" alt="Norway Crate">
+      <h3>Norway Crate</h3>
+      <p>Norwegian snacks, small crafts, and cultural fun facts.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Finland" alt="Finland Crate">
+      <h3>Finland Crate</h3>
+      <p>Finnish treats, cultural items, and fun facts about northern traditions.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Poland" alt="Poland Crate">
+      <h3>Poland Crate</h3>
+      <p>Polish snacks, souvenirs, and cultural highlights.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Belgium" alt="Belgium Crate">
+      <h3>Belgium Crate</h3>
+      <p>Belgian chocolates, snacks, and postcards from Belgium.</p>
+      <a class="btn" href="#">See Inside</a>
+    </div>
+
+    <div class="box-card">
+      <img src="https://via.placeholder.com/300x180?text=Switzerland" alt="Switzerland Crate">
+      <h3>Switzerland Crate</h3>
+      <p>Swiss treats, chocolates, crafts, and cultural
